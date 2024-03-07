@@ -1,5 +1,5 @@
 /*
-Copyright 2022 David Falkner (falkner@martica.org)
+Copyright 2012 Jun Wako <wakojun@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -20,3 +20,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define EE_HANDS
 
 #define KINETIC_SPEED
+
+// #define MASTER_RIGHT
+// #define MASTER_RIGHT
+//#define EE_HANDS
+// Rows are doubled-up
